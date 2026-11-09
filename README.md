@@ -1,5 +1,3 @@
-![Wensi Ouyang — UI and UX design and creative computing](assets/banner.svg)
-
 # Wensi Ouyang
 
 **UI/UX designer in Hong Kong, building interactive experiences with code and AI-assisted development tools.**
